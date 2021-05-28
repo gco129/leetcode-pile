@@ -26,5 +26,5 @@ Input: arr = [0,3,2,1]
 Output: true
 ```
 ## Constraints
-* 1 <= arr.length <= 104
-* 0 <= arr[i] <= 104
+* 1 <= arr.length <= 10^4
+* 0 <= arr[i] <= 10^4

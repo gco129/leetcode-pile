@@ -20,4 +20,4 @@ Output: [1]
 * nums2.length == n
 * 0 <= m, n <= 200
 * 1 <= m + n <= 200
-* -109 <= nums1[i], nums2[i] <= 109
+* -10^9 <= nums1[i], nums2[i] <= 10^9
